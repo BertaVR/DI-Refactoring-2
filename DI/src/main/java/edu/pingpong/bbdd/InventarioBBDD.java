@@ -1,12 +1,9 @@
 package edu.pingpong.bbdd;
 
+public class InventarioBBDD implements Inventario{
 
-public class InventarioBBDD {
-
-
-	// Metodo de consulta a la base de datos
-	
-	public int numeroProductos(String tienda, String producto) {
-		return BBDD.stocs.get(tienda).get(producto);
-	}
+    @Override
+    public int numeroProductos(String tienda, String producto) {
+        return BBDD.stocs.get(tienda).get(producto);
+    }
 }
