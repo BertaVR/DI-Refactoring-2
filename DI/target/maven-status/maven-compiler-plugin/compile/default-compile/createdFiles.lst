@@ -1,0 +1,3 @@
+org\formacion\di\bbdd\InventarioBBDD.class
+org\formacion\di\bbdd\BBDD.class
+org\formacion\di\negocio\ControladorEstoc.class
