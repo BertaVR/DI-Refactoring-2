@@ -1,4 +1,4 @@
-package org.formacion.di.bbdd;
+package edu.pingpong.bbdd;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,6 +1,7 @@
-package org.formacion.di.negocio;
+package edu.pingpong.negocio;
 
-import org.formacion.di.bbdd.InventarioBBDD;
+
+import edu.pingpong.bbdd.InventarioBBDD;
 
 public class ControladorEstoc {
 

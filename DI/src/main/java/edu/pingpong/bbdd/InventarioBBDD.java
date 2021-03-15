@@ -1,4 +1,4 @@
-package org.formacion.di.bbdd;
+package edu.pingpong.bbdd;
 
 
 public class InventarioBBDD {

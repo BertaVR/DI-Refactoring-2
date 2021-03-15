@@ -1,7 +1,7 @@
-package org.formacion.di.test;
+package edu.pingpong.negocio;
 
-import org.formacion.di.bbdd.InventarioBBDD;
-import org.formacion.di.negocio.ControladorEstoc;
+import edu.pingpong.bbdd.InventarioBBDD;
+import edu.pingpong.negocio.ControladorEstoc;
 import org.junit.Assert;
 import org.junit.Test;
 
